@@ -33,13 +33,13 @@ B.Tech Information Technology | VSB College of Engineering Technical Campus
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/student-registration-system.git
+git clone https://github.com/MukeshK25-dev/Student-Registration-System.git
 
 # Navigate to project folder
-cd student-registration-system
+cd Student-Registration-System
 
 # Run the program
-python3 student_app.py
+python3 student_management.py
 ```
 
 ---
