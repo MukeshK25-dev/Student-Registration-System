@@ -12,7 +12,7 @@ This is a menu-driven command-line application for managing student records
 (add, view, search, update, delete). It's a deliberately small, self-contained
 project used to practice core Python fundamentals — classes, exception
 handling, and file-based persistence — before moving on to database-backed
-and framework-based projects like [MailBrain](https://github.com/MukeshK25-dev/MailBrain).
+projects like [Library Management System V2](https://github.com/MukeshK25-dev/Library_Management_System_V2).
 
 ---
 
